@@ -8653,7 +8653,7 @@
       "paint": {
         "icon-opacity": 1
       },
-      "order": 229
+      "order": 230
     },
     {
       "id": "Oneway",
@@ -8703,7 +8703,7 @@
       "paint": {
         "icon-opacity": 1
       },
-      "order": 230
+      "order": 231
     },
     {
       "id": "Oneway opposite",
@@ -8754,7 +8754,7 @@
       "paint": {
         "icon-opacity": 0.5
       },
-      "order": 231
+      "order": 232
     },
     {
       "id": "Ferry line",
@@ -8806,7 +8806,7 @@
           ]
         }
       },
-      "order": 232
+      "order": 233
     }
   ]
 }

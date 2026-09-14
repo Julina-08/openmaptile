@@ -10,7 +10,7 @@
     "OSM OpenMapTiles": {
       "style": "style.json",
       "tilejson": {
-        "type": "overlay"
+        "type": "baselayer"
       }
     }
   },
